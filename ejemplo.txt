@@ -66,9 +66,6 @@
    66  git init
    67  git config user.nane Fankrit10
    68  git config user.name Fankri10
-   69  git config user.email feninon@correo.udistrital.edu.co
-   70  git config.password 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
-   71  git config user.password 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
    72  git remote add origin https://github.com/Fankrit10/USE-KALI-LINUX-ADVANCED.git
    73  git add .
    74  git status
@@ -97,8 +94,6 @@
    97  git push
    98  git
    99  git config --global user.name "Fankrit10"
-  100  git config --global user.email "feninon@correo.udistrital.edu.co"
-  101  git config --global user.password "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"
   102  git push
   103  ls -al ~/.ssh
   104  git push https://github.com/Fankrit10/USE-KALI-LINUX-ADVANCED.git
