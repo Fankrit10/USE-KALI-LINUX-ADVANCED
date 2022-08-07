@@ -1,0 +1,115 @@
+    1  cd
+    2  ls
+    3  cd ..
+    4  cd media/
+    5  ls
+    6  history
+    7  cd
+    8  ls
+    9  cd Imágenes/
+   10  cd /usr/bin/
+   11  ls -lh
+   12  cat man
+   13  cd -
+   14  which ls
+   15  which man
+   16  cler
+   17  clean
+   18  clean
+   19  ls
+   20  touch hola.txt
+   21  cd
+   22  ls
+   23  cd Imágenes/
+   24  ls
+   25  nano hola.txt
+   26  cat hola.txt 
+   27  history 
+   28  alias pruebe="touch prueba.txt"
+   29  pruebe
+   30  ls
+   31  nano . bash.rc
+   32  nano .bashrc
+   33  cd -
+   34  ls
+   35  nano .bashrc
+   36  top
+   37  history >>file.txt
+   38  ls
+   39  nano file.txt
+   40  git
+   41  git init
+   42  sudo apt-get upddate
+   43  sudo apt-get update
+   44  sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   45  sugo dpkg -i google-chrome-stable_current_amd64.deb 
+   46  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   47  ls
+   48  cd
+   49  ls
+   50  cd ..
+   51  ls
+   52  cd run}
+   53  cd run
+   54  ls
+   55  cd network/
+   56  ls
+   57  ping google.com
+   58  google-chrome
+   59  google-chrome --no-sandbox
+   60  google-chrome --no-sandbox
+   61  llaveros
+   62  pwd llaveros
+   63  cd root
+   64  pwd
+   65  git config user.nane Fankrit10
+   66  git init
+   67  git config user.nane Fankrit10
+   68  git config user.name Fankri10
+   69  git config user.email feninon@correo.udistrital.edu.co
+   70  git config.password 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
+   71  git config user.password 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
+   72  git remote add origin https://github.com/Fankrit10/USE-KALI-LINUX-ADVANCED.git
+   73  git add .
+   74  git status
+   75  ls
+   76  cd Imágenes/
+   77  ls
+   78  touch j.txt
+   79  git add j.txt
+   80  git status
+   81  git commit -m "primer comi"
+   82  git push -u origin master
+   83  git push
+   84  git push -u
+   85  git push
+   86  google-chrome --no-sandbox
+   87  git status
+   88  ls
+   89  ls .git
+   90  rw -rf .git
+   91  rm -rf .git
+   92  ls
+   93  cd Escritorio/
+   94  ls
+   95  cd USE-KALI-LINUX-ADVANCED/
+   96  git status
+   97  git push
+   98  git
+   99  git config --global user.name "Fankrit10"
+  100  git config --global user.email "feninon@correo.udistrital.edu.co"
+  101  git config --global user.password "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"
+  102  git push
+  103  ls -al ~/.ssh
+  104  git push https://github.com/Fankrit10/USE-KALI-LINUX-ADVANCED.git
+  105  git push https://github.com/Fankrit10/USE-KALI-LINUX-ADVANCED.git
+  106  git push https://github.com/Fankrit10/USE-KALI-LINUX-ADVANCED.git
+  107  git status
+  108  ls
+  109  ls
+  110  touch t.txt
+  111  git add t.txt
+  112  git commit -m "agregar t.txt"
+  113  git push
+  114  history 
+  115  history>>ejemplo.txt
